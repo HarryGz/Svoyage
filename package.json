@@ -1,0 +1,15 @@
+{
+    "name": "Svoyage",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "start": "node app.js"
+    },
+    "main": "app.js",
+    "dependencies": {
+        "express": "3.5.1",
+        "jade": "*",
+        "stylus": "*",
+        "nib":"1.0.2"
+    }
+}
